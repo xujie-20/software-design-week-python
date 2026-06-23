@@ -1,0 +1,8 @@
+example/
+.vscode/
+.agents/
+example_comparison.md
+software_design*
+extract*
+docx_extracted_text.txt
+formula_contact_sheet.png

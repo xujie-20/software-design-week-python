@@ -1,0 +1,10 @@
+题目5：雪崩倍增因子
+
+方法：按局域碰撞电离模型，分别对突变结和线性缓变结耗尽区电场进行数值积分。
+突变结参数：NA=1.00e+17 cm^-3, ND=1.00e+16 cm^-3
+线性缓变结参数：a=1.00e+20 cm^-4
+突变结在 0-120 V 范围内，可计算的最大 Mn≈165.3，最大 Mp≈32.17。
+线性缓变结在 0-120 V 范围内，可计算的最大 Mn≈76.25，最大 Mp≈11.57。
+线性图只显示 M<100 的有限区域：突变结 Mn 约显示到 57 V，Mp 约显示到 58 V；线性缓变结 Mn 约显示到 84 V，Mp 约显示到 84 V。
+图片：images/avalanche_multiplication.png, images/avalanche_multiplication_semilog.png
+数据：data/avalanche_multiplication.csv

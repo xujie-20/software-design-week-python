@@ -1,0 +1,7 @@
+题目2：绘制圆形
+
+本题使用 circle_points(radius, center, n) 函数生成圆上采样点。
+圆心：(0, 0)
+半径：1
+图片：images/circle.png
+数据：data/circle_points.csv

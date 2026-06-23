@@ -1,0 +1,8 @@
+题目3：双极型晶体管缓变基区少子浓度分布
+
+计算式：nB(x)=InE/(DnB*q)*Integral[x,WB](N(t)dt)/N(x)
+参数：InE=0.01 mA, DnB=2 cm^2/s, WB=0.05 um, q=1.6e-19 C
+线性分布在 x=WB 处 NA=0，程序绘制到 0.999*WB。
+归一化浓度图片：images/minority_distribution.png
+绝对浓度图片：images/minority_distribution_absolute.png
+数据：data/minority_distribution.csv

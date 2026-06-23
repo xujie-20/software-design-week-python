@@ -1,0 +1,9 @@
+题目4：PN 结势垒区电场分布和碰撞电离率
+
+硅材料参数：T=300 K, ni=1.45e10 cm^-3, eps_si=11.7eps0
+突变结参数：NA=1.00e+17 cm^-3, ND=1.00e+16 cm^-3, Vbi=0.7546 V
+线性缓变结参数：a=1.00e+20 cm^-4, Vbi=0.6474 V
+VR=40 V 时：突变结 Emax=3.385e+05 V/cm，线性缓变结 Emax=1.930e+05 V/cm
+多电压电场图使用 VR=0, 20, 40, 80, 120 V。
+图片：images/field_distribution.png, images/field_distribution_multi_voltage.png, images/ionization_vs_voltage.png
+数据：data/ionization_vs_voltage.csv
