@@ -16,11 +16,11 @@ python -m pip install -U numpy matplotlib scipy
 在当前工作空间根目录运行对应题目的脚本即可。例如：
 
 ```powershell
-& python question_1_matrix\solve_q1.py
-& python question_2_circle\solve_q2.py
-& python question_3_minority_distribution\solve_q3.py
-& python question_4_pn_field_ionization\solve_q4.py
-& python question_5_avalanche_multiplication\solve_q5.py
+python question_1_matrix\solve_q1.py
+python question_2_circle\solve_q2.py
+python question_3_minority_distribution\solve_q3.py
+python question_4_pn_field_ionization\solve_q4.py
+python question_5_avalanche_multiplication\solve_q5.py
 ```
 
 每个脚本都会在自己的文件夹里生成 `result_report.txt`。有图片的题目会生成 `images/`，有数据表的题目会生成 `data/`。
